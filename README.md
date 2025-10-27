@@ -1,4 +1,4 @@
-# TB_Burden_Country_Projec# TB Burden Country Analysis
+# TB Burden Country Analysis
 
 This is an ongoing **analysis of tuberculosis (TB) prevalence across countries** using the [TB_Burden_Country_Project dataset](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv) from Tableau. The project is currently in the initial stages, and more visualizations and insights will be added over time.
 
