@@ -14,13 +14,13 @@ Initial visualizations saved in this project:
 
 ### TB Prevalence in Afghanistan
 
-![TB Prevalence in Afghanistan](./images/TB_Prevalence_in_Afghanistan.png)
+![TB Prevalence in Afghanistan](./images/TB Prevalence in Afghanistan.png)
 
 This plot shows TB prevalence trends in Afghanistan over time.
 
 ### Comparison of TB Prevalence by Country (1990 vs 2013)
 
-![Comparison of TB Prevalence (1990 vs 2013)](./images/Comparison_TB_Prevalence_1990_vs_2013.png)
+![Comparison of TB Prevalence (1990 vs 2013)](./images/Comparison of TB Prevalence by Country (1990 vs 2013))
 
 This side-by-side comparison highlights changes in TB prevalence across countries between 1990 and 2013.
 
