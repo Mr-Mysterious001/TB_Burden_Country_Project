@@ -40,8 +40,10 @@ The app enables users to explore patterns and variations in TB metrics over time
 
 Here are a few initial plots used in the project (work in progress):
 
-- ![Global TB Prevalence Trends (1990 vs 2013)](/images/TB_Prevalence_in_Afghanistan.png)
-- ![Country-wise TB Mortality Comparison](/images/Comparison_of_TB_Prevalence_by_Country_(1990vs2013).png)
+### Global TB Prevalence Trends (1990 vs 2013)
+![Global TB Prevalence Trends (1990 vs 2013)](/images/TB_Prevalence_in_Afghanistan.png)
+### Country-wise TB Mortality Comparison
+![Country-wise TB Mortality Comparison](/images/Comparison_of_TB_Prevalence_by_Country_(1990vs2013).png)
 
 *(More plots and metrics will be added as the analysis progresses.)*
 
