@@ -67,6 +67,6 @@ You can fork the repo, open issues, or reach out with suggestions to improve the
 ### 🧑‍💻 Author
 **Akshay Chandra**  
 Data Science & Web Development Enthusiast  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/MR-Mysterious001)
 
 ---
