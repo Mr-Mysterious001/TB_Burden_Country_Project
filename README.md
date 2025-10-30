@@ -1,8 +1,8 @@
-# 🧬 TB Burden Country Analysis Dashboard
+# TB Burden Country Analysis Dashboard
 
 **Live App:** [tb-burden.streamlit.app](https://tb-burden.streamlit.app)
 
-## 📊 Overview
+## Overview
 
 This interactive Streamlit dashboard provides an analytical view of the **Global Tuberculosis (TB) Burden** using data from [Tableau’s sample dataset](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv).  
 The goal of this project is to visualize and understand trends in TB prevalence, incidence, and mortality across countries and years.
@@ -11,7 +11,7 @@ The app enables users to explore patterns and variations in TB metrics over time
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Country-wise TB analysis:** Explore data by country and year.
 - **Trend visualization:** See how TB burden has changed globally and regionally over time.
@@ -21,13 +21,13 @@ The app enables users to explore patterns and variations in TB metrics over time
 
 ---
 
-## 🧠 Dataset
+## Dataset
 
 **Source:** [Tableau Public – TB Burden Country Data](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit** — for web app deployment  
@@ -36,7 +36,7 @@ The app enables users to explore patterns and variations in TB metrics over time
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 Here are a few initial plots used in the project (work in progress):
 
@@ -49,7 +49,7 @@ Here are a few initial plots used in the project (work in progress):
 
 ---
 
-## 💡 Future Plans
+## Future Plans
 
 - Add continent-level filtering and comparison
 - Enhance dashboard aesthetics and interactivity 
@@ -57,14 +57,14 @@ Here are a few initial plots used in the project (work in progress):
 
 ---
 
-## 📬 Feedback & Contributions
+## Feedback & Contributions
 
 This is an ongoing data analysis project — contributions, ideas, and feedback are welcome!  
 You can fork the repo, open issues, or reach out with suggestions to improve the analysis.
 
 ---
 
-### 🧑‍💻 Author
+### Author
 **Akshay Chandra**  
 Data Science & Web Development Enthusiast  
 [GitHub Profile](https://github.com/MR-Mysterious001)
