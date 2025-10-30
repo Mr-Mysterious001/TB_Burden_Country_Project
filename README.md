@@ -1,42 +1,70 @@
-# TB Burden Country Analysis
+# 🧬 TB Burden Country Analysis Dashboard
 
-This is an ongoing **analysis of tuberculosis (TB) prevalence across countries** using the [TB_Burden_Country_Project dataset](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv) from Tableau. The project is currently in the initial stages, and more visualizations and insights will be added over time.
+**Live App:** [tb-burden.streamlit.app](https://tb-burden.streamlit.app)
 
-## Tools & Libraries
+## 📊 Overview
 
-- **Python** (Jupyter Notebook)  
-- **Pandas** – data manipulation  
-- **Matplotlib** – visualization  
+This interactive Streamlit dashboard provides an analytical view of the **Global Tuberculosis (TB) Burden** using data from [Tableau’s sample dataset](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv).  
+The goal of this project is to visualize and understand trends in TB prevalence, incidence, and mortality across countries and years.
 
-## Visualizations
+The app enables users to explore patterns and variations in TB metrics over time and compare countries to identify regions that require the most attention.
 
-Initial visualizations saved in this project:
+---
 
-### TB Prevalence in Afghanistan
+## 🚀 Features
 
-![TB Prevalence in Afghanistan](./images/TB_Prevalence_in_Afghanistan.png)
+- **Country-wise TB analysis:** Explore data by country and year.
+- **Trend visualization:** See how TB burden has changed globally and regionally over time.
+- **Interactive plots:** Built using Plotly and Matplotlib for rich, dynamic visualizations.
+- **Error-bound estimates:** Visualize upper and lower bounds for TB prevalence to understand uncertainty in data.
+- **Clean UI:** Simple, intuitive Streamlit interface for seamless exploration.
 
-This plot shows TB prevalence trends in Afghanistan over time.
+---
 
-### Comparison of TB Prevalence by Country (1990 vs 2013)
+## 🧠 Dataset
 
-![Comparison of TB Prevalence (1990 vs 2013)](./images/Comparison_of_TB_Prevalence_by_Country_(1990vs2013).png)
+**Source:** [Tableau Public – TB Burden Country Data](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv)
 
-This side-by-side comparison highlights changes in TB prevalence across countries between 1990 and 2013.
+---
 
-## Project Status
+## 🛠️ Tech Stack
 
-- ✅ Initial data exploration  
-- ✅ Basic visualizations  
-- 🔜 Streamlit dashboard and additional visualizations (upcoming)  
+- **Python**
+- **Streamlit** — for web app deployment  
+- **Pandas** — for data wrangling  
+- **Plotly** — for data visualization  
 
-## How to Run
+---
 
-1. Download the dataset: [TB_Burden_Country.csv](https://public.tableau.com/app/sample-data/TB_Burden_Country.csv)  
-2. Open the Jupyter Notebook and explore the analysis.  
-3. Refer to the embedded images above for the current visualizations.
+## 📈 Sample Visualizations
 
-## Future Work
+Here are a few initial plots used in the project (work in progress):
 
-- Build an **interactive Streamlit dashboard** for dynamic analysis.  
-- Include additional visualizations such as **trends by region**, **error bars for TB estimates**, and **year-wise comparisons**.  
+- [Global TB Prevalence Trends (1990 vs 2013)](/images/TB_Prevalence_in_Afghanistan.png)
+- [Country-wise TB Mortality Comparison](/images/Comparison_of_TB_Prevalence_by_Country_(1990vs2013).png)
+
+*(More plots and metrics will be added as the analysis progresses.)*
+
+---
+
+## 💡 Future Plans
+
+- Add continent-level filtering and comparison
+- Enhance dashboard aesthetics and interactivity 
+- Add more visualizations 
+
+---
+
+## 📬 Feedback & Contributions
+
+This is an ongoing data analysis project — contributions, ideas, and feedback are welcome!  
+You can fork the repo, open issues, or reach out with suggestions to improve the analysis.
+
+---
+
+### 🧑‍💻 Author
+**Akshay Chandra**  
+Data Science & Web Development Enthusiast  
+[GitHub Profile](https://github.com/yourusername)
+
+---
